@@ -1,0 +1,16 @@
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\bin\Debug\MyWindowMediaPlayer.exe.config
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\bin\Debug\MyWindowMediaPlayer.exe
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\bin\Debug\MyWindowMediaPlayer.pdb
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer_MarkupCompile.cache
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer.g.resources
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowsMediaPlayer.Properties.Resources.resources
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer.exe
+C:\Users\Eddy\Desktop\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer.pdb
+C:\Users\Eddy\Desktop\EPITECH\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\bin\Debug\MyWindowMediaPlayer.exe.config
+C:\Users\Eddy\Desktop\EPITECH\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer.exe
+C:\Users\Eddy\Desktop\EPITECH\MyWindowsMediaPlayer\WpfApplication1\WpfApplication1\obj\Debug\MyWindowMediaPlayer.pdb
